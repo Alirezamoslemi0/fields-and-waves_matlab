@@ -1,24 +1,22 @@
-# fields-and-waves_matlab
+This project focuses on simulating the concepts of the Fields and Waves course using MATLAB.
+In this exercise, the Transfer Matrix Method (TMM) is employed to analyze wave propagation in multilayer structures, calculate reflection and transmission coefficients, and design a dielectric mirror.
 
+📘 Sections
 
-این پروژه به شبیه‌سازی مفاهیم درس **میدان‌ها و امواج** با استفاده از نرم‌افزار **MATLAB** اختصاص دارد.  
-در این تمرین، از **روش ماتریس انتقال (Transfer Matrix Method)** برای تحلیل انتشار موج در ساختارهای چندلایه، محاسبه ضرایب انعکاس و انتقال، و طراحی آینه دی‌الکتریک استفاده شده است.
+Part 1: Calculation of reflection and transmission coefficients at the interface between two media for TM polarization
 
-## 📘 بخش‌ها
-- **بخش اول:** محاسبه ضرایب بازتاب و انتقال برای مرز دو محیط با پالاریزاسیون TM  
-- **بخش دوم:** استخراج روابط ماتریس انتقال برای محیط چندلایه و مقایسه با روش پراکندگی  
-- **بخش سوم:** محاسبه ضرایب $R$ و $T$ برای ضخامت‌ها و زوایای مختلف  
-- **بخش چهارم:** طراحی آینه دی‌الکتریک با بازتاب بالا (|R|² > 0.99)
+Part 2: Derivation of transfer matrix relations for multilayer media and comparison with the scattering method
 
-## ⚙️ ابزارها
-- MATLAB   
- 
+Part 3: Computation of R and T coefficients for different layer thicknesses and incidence angles
 
-## 🧠 هدف
-درک عملی مفاهیم میدان‌های الکترومغناطیسی از طریق شبیه‌سازی عددی و تحلیل لایه‌های دی‌الکتریک با استفاده از روش ماتریس انتقال.
+Part 4: Design of a high-reflectivity dielectric mirror (|R|² > 0.99)
 
----
+⚙️ Tools
 
-�
-👤 تهیه و اجرا توسط: *[ علیرضا مسلمی ]*  
-دانشجوی مهندسی برق – دانشگاه [صنعتی شریف]]
+MATLAB
+
+🧠 Objective
+To gain a practical understanding of electromagnetic field concepts through numerical simulation and analysis of dielectric layers using the transfer matrix method.
+
+👤 Prepared and executed by: [Alireza Moslemi]
+Electrical Engineering Student – [Sharif University of Technology]
